@@ -1,0 +1,17 @@
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\bin\Debug\barcode_yomio.exe.config
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\obj\Debug\barcode_yomio.frmMain.resources
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\obj\Debug\barcode_yomio.Properties.Resources.resources
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\obj\Debug\barcode_yomio.csproj.GenerateResource.Cache
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\bin\Debug\barcode_yomio.exe
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\bin\Debug\barcode_yomio.pdb
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\bin\Debug\OpenCvSharp.dll
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\bin\Debug\OpenCvSharp.xml
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\obj\Debug\barcode_yomio.exe
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\obj\Debug\barcode_yomio.pdb
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\obj\Debug\barcode_yomio.frmSetting.resources
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\barcode_yomio\barcode_yomio\obj\Debug\barcode_yomio.csprojResolveAssemblyReference.cache
